@@ -1,0 +1,1360 @@
+﻿Log file open, 08/22/22 13:16:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=19628)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TeamGameProject1
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Ryan\Documents\GitHub\teamgameproject1\TeamGameProject1.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="770df4e54b160e62fe38319f6c2de54b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 10.538382
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-34E34E5347D479D74B7F9CA1139BC46A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.28 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.29 seconds
+LogConfig: Display: Loading Linux ini files took 0.30 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/EpicGames/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.22-18.16.09:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.22-18.16.09:191][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.22-18.16.09:191][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.22-18.16.09:191][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.22-18.16.09:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.22-18.16.09:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.22-18.16.09:219][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.22-18.16.09:219][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.22-18.16.09:219][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.22-18.16.09:220][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.22-18.16.09:220][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.22-18.16.09:280][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.22-18.16.09:280][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.22-18.16.09:280][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.22-18.16.09:280][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.22-18.16.09:280][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.22-18.16.09:280][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.22-18.16.09:280][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.22-18.16.09:280][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.22-18.16.09:301][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.22-18.16.09:301][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.22-18.16.09:301][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.22-18.16.09:543][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.22-18.16.09:543][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.22-18.16.09:913][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.22-18.16.09:913][  0]LogD3D12RHI: Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 8148MB of shared system memory, 2 output[s]
+[2022.08.22-18.16.09:924][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.22-18.16.09:924][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8148MB of shared system memory, 0 output[s]
+[2022.08.22-18.16.09:924][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.22-18.16.09:924][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.22-18.16.09:940][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.22-18.16.09:947][  0]LogHAL: Display: Platform has ~ 16 GB [17088385024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.22-18.16.09:956][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.22-18.16.09:956][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.22-18.16.09:956][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.22-18.16.09:976][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.22-18.16.09:976][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.22-18.16.10:001][  0]LogInit: Computer: FRANK
+[2022.08.22-18.16.10:001][  0]LogInit: User: Ryan
+[2022.08.22-18.16.10:001][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.08.22-18.16.10:001][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.22-18.16.10:001][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.22-18.16.10:001][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.22-18.16.10:001][  0]LogMemory: Process Physical Memory: 259.38 MB used, 268.82 MB peak
+[2022.08.22-18.16.10:001][  0]LogMemory: Process Virtual Memory: 200.09 MB used, 200.09 MB peak
+[2022.08.22-18.16.10:001][  0]LogMemory: Physical Memory: 8186.63 MB used,  8110.12 MB free, 16296.75 MB total
+[2022.08.22-18.16.10:001][  0]LogMemory: Virtual Memory: 10815.91 MB used,  14184.85 MB free, 25000.75 MB total
+[2022.08.22-18.16.10:001][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.22-18.16.10:036][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.22-18.16.10:411][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.22-18.16.10:461][  0]LogInit: Using OS detected language (en-US).
+[2022.08.22-18.16.10:461][  0]LogInit: Using OS detected locale (en-US).
+[2022.08.22-18.16.10:556][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.08.22-18.16.10:993][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.22-18.16.11:239][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.22-18.16.11:239][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.08.22-18.16.11:239][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.08.22-18.16.11:239][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.08.22-18.16.12:359][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.22-18.16.12:359][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.22-18.16.16:544][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.22-18.16.16:569][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.22-18.16.16:569][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.22-18.16.16:687][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.22-18.16.16:688][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.22-18.16.16:767][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.22-18.16.16:773][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.22-18.16.16:785][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.22-18.16.16:829][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.22-18.16.16:829][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.22-18.16.17:047][  0]LogD3D12RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.22-18.16.17:047][  0]LogWindows: Attached monitors:
+[2022.08.22-18.16.17:047][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.22-18.16.17:047][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY2'
+[2022.08.22-18.16.17:047][  0]LogWindows: Found 2 attached monitors.
+[2022.08.22-18.16.17:047][  0]LogWindows: EnumDisplayDevices:
+[2022.08.22-18.16.17:047][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.22-18.16.17:048][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.08.22-18.16.17:048][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.22-18.16.17:048][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.22-18.16.17:048][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.08.22-18.16.17:048][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.08.22-18.16.17:048][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.08.22-18.16.17:048][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.08.22-18.16.17:048][  0]LogRHI: Texture pool is 3276 MB (70% of 4680 MB)
+[2022.08.22-18.16.17:048][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.22-18.16.17:048][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.22-18.16.17:460][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.22-18.16.17:602][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Ryan/Documents/GitHub/teamgameproject1/TeamGameProject1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Ryan/Documents/GitHub/teamgameproject1/TeamGameProject1.uproject"  -platform=all'
+[2022.08.22-18.16.17:603][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/EpicGames/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Ryan/Documents/GitHub/teamgameproject1/TeamGameProject1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Ryan/Documents/GitHub/teamgameproject1/TeamGameProject1.uproject"  -platform=all" ]
+[2022.08.22-18.16.18:104][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.08.22-18.16.18:104][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.22-18.16.18:367][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.22-18.16.18:367][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.22-18.16.18:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.22-18.16.18:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.22-18.16.18:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.22-18.16.18:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.22-18.16.18:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.22-18.16.18:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.22-18.16.18:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.22-18.16.18:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.22-18.16.18:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.22-18.16.18:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.22-18.16.18:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.22-18.16.18:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.22-18.16.18:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.22-18.16.18:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.22-18.16.18:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.22-18.16.18:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.22-18.16.18:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.22-18.16.18:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.22-18.16.18:868][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.22-18.16.19:148][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.22-18.16.19:203][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.22-18.16.19:203][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.22-18.16.19:203][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.22-18.16.19:203][  0]LogTargetPlatformManager:   PCM
+[2022.08.22-18.16.19:225][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.22-18.16.19:225][  0]LogTargetPlatformManager:   BINKA
+[2022.08.22-18.16.19:225][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.22-18.16.19:225][  0]LogTargetPlatformManager:   OGG
+[2022.08.22-18.16.19:225][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.22-18.16.19:225][  0]LogTargetPlatformManager:   OPUS
+[2022.08.22-18.16.20:266][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.22-18.16.20:347][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.22-18.16.20:383][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.22-18.16.20:383][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.22-18.16.20:383][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.22-18.16.20:383][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.22-18.16.20:383][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.22-18.16.20:383][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.22-18.16.20:383][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.22-18.16.20:403][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.22-18.16.20:455][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Ryan/Documents/GitHub/teamgameproject1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.22-18.16.20:460][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.22-18.16.20:460][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Ryan/Documents/GitHub/teamgameproject1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.22-18.16.20:464][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.22-18.16.20:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ryan/Documents/GitHub/teamgameproject1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.22-18.16.20:503][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.22-18.16.20:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ryan/Documents/GitHub/teamgameproject1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.22-18.16.20:503][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.22-18.16.20:647][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.08.22-18.16.20:650][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.22-18.16.20:650][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.22-18.16.20:699][  0]LogDerivedDataCache: Speed tests for C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.08.22-18.16.20:700][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.10ms. RandomReadSpeed=22.29MBs, RandomWriteSpeed=169.27MBs. Assigned SpeedClass 'Local'
+[2022.08.22-18.16.20:727][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.22-18.16.20:727][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.22-18.16.20:727][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.22-18.16.20:732][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.22-18.16.20:732][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.22-18.16.20:936][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/Ryan/Documents/GitHub/teamgameproject1/Intermediate/Shaders/WorkingDirectory/3968/).
+[2022.08.22-18.16.20:936][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ryan/AppData/Local/Temp/UnrealShaderWorkingDir/11BA79AF4621CE4BE56BFD82F178E98A/'.
+[2022.08.22-18.16.20:937][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.22-18.16.20:937][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.08.22-18.16.32:406][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.22-18.16.32:541][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.22-18.16.33:415][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2022.08.22-18.16.33:441][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.22-18.16.40:810][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.22-18.16.41:009][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.22-18.16.41:656][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.22-18.16.41:657][  0]LogDeviceProfileManager: Active device profile: [000007D7DA8F78C0][000007D7D3540000 50] WindowsEditor
+[2022.08.22-18.16.41:657][  0]LogDeviceProfileManager: Profiles: [000007D7DA8F7380][000007D7C5490000 50] Windows, [000007D7DA8F78C0][000007D7D3540000 50] WindowsEditor, [000007D7DA8F71C0][000007D7DAC40000 50] WindowsServer, [000007D7DA8F6C80][000007D7DAC45000 50] WindowsClient, [000007D7DA8F5080][000007D7DAC47800 50] IOS, [000007D7DA8F6AC0][000007D7DAC4A000 50] iPadAir2, [000007D7DA8F7C40][000007D7D3542800 50] IPadPro, [000007D7DA8F7FC0][000007D7DAC4C800 50] iPadAir3, [000007D7DA8F5240][000007D7DAC70000 50] iPadAir4, [000007D7DA8F3D40][000007D7DAC75000 50] iPadMini4, [000007D7DA8F39C0][000007D7DAC77800 50] iPadMini5, [000007D7DA8F5400][000007D7DAC7A000 50] iPadMini6, [000007D7DA8FB280][000007D7DACE0000 50] iPhone6S, [000007D7DA8FB600][000007D7DACE2800 50] iPhone7, [000007D7DA8FB980][000007D7DACE5000 50] iPodTouch7, [000007D7DA8F47C0][000007D7DACEA000 50] iPhone6SPlus, [000007D7DA8FA800][000007D7DACEC800 50] iPhone7Plus, [000007D7DA8FA9C0][000007D7DAC42800 50] iPhoneSE, [000007D7DA8FBB40][000007D7DAC7C800 50] iPhone8, [000007D7DA8F6580][000007D7DACE7800 50] iPhone8Plus, [000007D7DA8FA480][000007D7DACA0000 50] iPhoneX, [000007D7DA8FAF00][000007D7DACA5000 50] iPhoneXS, [000007D7DA8F7E00][000007D7DACA7800 50] iPhoneXSMax, [000007D7DA8F4280][000007D7DACAA000 50] iPhoneXR, [000007D7DA8FAB80][000007D7DACAC800 50] iPhone11, [000007D7DA8FB7C0][000007D7DAC72800 50] iPhone11Pro, [000007D7DA8F3B80][000007D7DACB0000 50] iPhone11ProMax, [000007D7DA8FA640][000007D7DACB5000 50] iPhoneSE2, [000007D7DA8FB0C0][000007D7DACB7800 50] iPhone12Mini, [000007D7DA8F4B40][000007D7DACBA000 50] iPhone12, [000007D7DA8F6E40][000007D7DACBC800 50] iPhone12Pro, [000007D7DA8F4600][000007D7DACA2800 50] iPhone12ProMax, [000007D7DA8F94C0][000007D7DACC0000 50] iPhone13Mini, [000007D7DA8F8A40][000007D7DACC5000 50] iPhone13, [000007D7DA8F4980][000007D7DACC7800 50] iPhone13Pro, [000007D7DA8F2140][000007D7DACCA000 50] iPhone13ProMax, [000007D7DA8F8C00][000007D7DACCC800 50] iPadPro105, [000007D7DA8F3F00][000007D7DACB2800 50] iPadPro129, [000007D7DA8F6740][000007D7DACD0000 50] iPadPro97, [000007D7DA8F7000][000007D7DACD5000 50] iPadPro2_129, [000007D7DA8F5E80][000007D7DACD7800 50] iPad5, [000007D7DA8F9300][000007D7DACDA000 50] iPad6, [000007D7DA8F8340][000007D7DACDC800 50] iPad7, [000007D7DA8F9840][000007D7DACC2800 50] iPad8, [000007D7DA8FB440][000007D7DACF0000 50] iPad9, [000007D7DA8F3100][000007D7DACF5000 50] iPadPro11, [000007D7DA8F9680][000007D7DACF7800 50] iPadPro2_11, [000007D7DA8F6200][000007D7DACFA000 50] iPadPro3_11, [000007D7DA8F9140][000007D7DACFC800 50] iPadPro3_129, [000007D7DA8FA2C0][000007D7DACD2800 50] iPadPro4_129, [000007D7DA8F4EC0][000007D7DAD00000 50] iPadPro5_129, [000007D7DA8F4440][000007D7DAD05000 50] AppleTV, [000007D7DA8F5B00][000007D7DAD07800 50] AppleTV4K, [000007D7DA8F9F40][000007D7DAD0A000 50] TVOS, [000007D7DA8FCE80][000007D7DACF2800 50] Mac, [000007D7DA8FD200][000007D7DAD0C800 50] MacEditor, [000007D7DA8F55C0][000007D7DAD10000 50] MacClient, [000007D7DA8FD040][000007D7DAD15000 50] MacServer, [000007D7DA8FDC80][000007D7DAD1A000 50] Linux, [000007D7DA8FE000][000007D7DAD17800 50] LinuxEditor, [000007D7DA8F9D80][000007D7DAD1C800 50] LinuxArm64Editor, [000007D7DA8F9A00][000007D7DAD02800 50] LinuxArm64, [000007D7DA8FC080][000007D7DAD20000 50] LinuxClient, [000007D7DA8F4D00][000007D7DAD25000 50] LinuxArm64Client, [000007D7DA8F5940][000007D7DAD27800 50] LinuxServer, [000007D7DA8F86C0][000007D7DAD2A000 50] LinuxArm64Server, [000007D7DA8F2F40][000007D7DAD2C800 50] Android, [000007D7DA8F16C0][000007D7DAD12800 50] Android_Preview_OpenGL, [000007D7DA8F8DC0][000007D7DAD30000 50] Android_Preview_Vulkan, [000007D7DA8FDE40][000007D7DAD35000 50] Android_Low, [000007D7DA8F7A80][000007D7DAD37800 50] Android_Mid, [000007D7DA8FEA80][000007D7DAD3A000 50] Android_High, [000007D7DA8FC940][000007D7DAD3C800 50] Android_Default, [000007D7DA8FDAC0][000007D7DAD22800 50] Android_Adreno4xx, [000007D7DA8FD3C0][000007D7DAD40000 50] Android_Adreno5xx_Low, [000007D7DA8F8500][000007D7DAD45000 50] Android_Adreno5xx, [000007D7DA8F63C0][000007D7DAD47800 50] Android_Adreno6xx, [000007D7DA8F8880][000007D7DAD4A000 50] Android_Adreno6xx_Vulkan, [000007D7DA8FCB00][000007D7DAD4C800 50] Android_Adreno7xx, [000007D7DA8F32C0][000007D7DAD32800 50] Android_Adreno7xx_Vulkan, [000007D7DA8F6040][000007D7DAD50000 50] Android_Mali_T6xx, [000007D7DA8FC240][000007D7DAD55000 50] Android_Mali_T7xx, [000007D7DA8FBEC0][000007D7DAD57800 50] Android_Mali_T8xx, [000007D7DA8FCCC0][000007D7DAD5A000 50] Android_Mali_G71, [000007D7DA8FE700][000007D7DAD5C800 50] Android_Mali_G72, [000007D7DA8FE540][000007D7DAD42800 50] Android_Mali_G72_Vulkan, [000007D7DA8FD580][000007D7DAD60000 50] Android_Mali_G76, [000007D7DA8FEC40][000007D7DAD65000 50] Android_Mali_G76_Vulkan, [000007D7DA8FAD40][000007D7DAD67800 50] Android_Mali_G77, [000007D7DA8FF180][000007D7DAD6A000 50] Android_Mali_G77_Vulkan, [000007D7DA8F40C0][000007D7DAD6C800 50] Android_Mali_G78, [000007D7DA8FBD00][000007D7DAD52800 50] Android_Mali_G78_Vulkan, [000007D7DA8FC780][000007D7DAD70000 50] Android_Mali_G710, [000007D7DA8FC400][000007D7DAD75000 50] Android_Mali_G710_Vulkan, [000007D7DA8FE380][000007D7DAD77800 50] Android_Xclipse_920, [000007D7DA8F3480][000007D7DAD7A000 50] Android_Xclipse_920_Vulkan, [000007D7DA8FF340][000007D7DAD7C800 50] Android_Vulkan_SM5, [000007D7DA8F8180][000007D7DAD62800 50] Android_PowerVR_G6xxx, [000007D7DA8FFDC0][000007D7DAD80000 50] Android_PowerVR_GT7xxx, [000007D7DADA01C0][000007D7DAD85000 50] Android_PowerVR_GE8xxx, [000007D7DADA2300][000007D7DAD87800 50] Android_PowerVR_GM9xxx, [000007D7DADA0C40][000007D7DAD8A000 50] Android_PowerVR_GM9xxx_Vulkan, [000007D7DADA1A40][000007D7DAD8C800 50] Android_TegraK1, [000007D7DADA1C00][000007D7DAD72800 50] Android_Unknown_Vulkan, [000007D7DADA16C0][000007D7DAC20000 50] Oculus_Quest, [000007D7DADA32C0][000007D7DAC25000 50] Oculus_Quest2, [000007D7DADA1180][000007D7DAC27800 50] HoloLens, 
+[2022.08.22-18.16.41:657][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.22-18.16.46:796][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.22-18.16.51:672][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.22-18.16.51:672][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.22-18.16.51:672][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.22-18.16.51:672][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.22-18.16.51:691][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.22-18.16.53:084][  0]LogNetVersion: TeamGameProject1 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3799580723)
+[2022.08.22-18.16.59:765][  0]LogSlate: Border
+[2022.08.22-18.16.59:765][  0]LogSlate: BreadcrumbButton
+[2022.08.22-18.16.59:765][  0]LogSlate: Default
+[2022.08.22-18.16.59:765][  0]LogSlate: Icons.Save
+[2022.08.22-18.16.59:765][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.22-18.16.59:765][  0]LogSlate: ListView
+[2022.08.22-18.16.59:765][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.22-18.16.59:765][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.22-18.16.59:765][  0]LogSlate: TableView.DarkRow
+[2022.08.22-18.16.59:765][  0]LogSlate: TableView.Row
+[2022.08.22-18.16.59:765][  0]LogSlate: TreeView
+[2022.08.22-18.17.09:733][  0]SourceControl: Source control is disabled
+[2022.08.22-18.17.10:023][  0]SourceControl: Source control is disabled
+[2022.08.22-18.17.10:023][  0]SourceControl: Source control is disabled
+[2022.08.22-18.17.11:180][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.22-18.17.11:198][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.22-18.17.11:198][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.22-18.17.16:517][  0]LogPython: Using Python 3.9.7
+[2022.08.22-18.17.18:945][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 90D410E546762ADF79D495A17DFD4A72 | Instance: 835F0EF841F169F432CE5B8AA0625305 (FRANK-3968).
+[2022.08.22-18.17.19:989][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.22-18.17.20:059][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.22-18.17.21:766][  0]LogUProjectInfo: Found projects:
+[2022.08.22-18.17.25:578][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.22-18.17.26:415][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.22-18.17.26:628][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.22-18.17.26:629][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.22-18.17.27:663][  0]LogCollectionManager: Loaded 0 collections in 0.001225 seconds
+[2022.08.22-18.17.28:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/Collections/' took 0.02s
+[2022.08.22-18.17.28:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/Developers/Ryan/Collections/' took 0.01s
+[2022.08.22-18.17.28:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/Collections/' took 0.01s
+[2022.08.22-18.17.31:288][  0]LogEngine: Initializing Engine...
+[2022.08.22-18.17.31:553][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.22-18.17.31:612][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.009 s
+[2022.08.22-18.17.33:454][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.22-18.17.33:531][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.22-18.17.33:817][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.17.34:270][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.22-18.17.34:389][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.22-18.17.34:469][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.22-18.17.34:469][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.22-18.17.34:469][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.22-18.17.34:553][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.22-18.17.34:553][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.22-18.17.34:569][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.22-18.17.34:569][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.22-18.17.34:569][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.22-18.17.34:569][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.22-18.17.34:569][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.22-18.17.34:569][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.22-18.17.34:569][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.22-18.17.34:569][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.22-18.17.34:574][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.22-18.17.34:574][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.22-18.17.34:574][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.22-18.17.34:664][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.22-18.17.34:712][  0]LogAudioMixer: Display: Using Audio Hardware Device C27F390 (NVIDIA High Definition Audio)
+[2022.08.22-18.17.34:763][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.22-18.17.34:765][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.22-18.17.34:765][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.22-18.17.34:768][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.22-18.17.34:777][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.22-18.17.34:779][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.22-18.17.34:779][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.22-18.17.34:779][  0]LogInit: FAudioDevice initialized.
+[2022.08.22-18.17.34:796][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.22-18.17.34:797][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.22-18.17.34:797][  0]LogInit: Texture streaming: Enabled
+[2022.08.22-18.17.34:997][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.22-18.17.34:997][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.08.22-18.17.35:045][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.22-18.17.35:179][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.22-18.17.35:247][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.22-18.17.35:247][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.22-18.17.40:846][  0]LogLiveCoding: Display: First instance in process group "UE_TeamGameProject1_0xfbfcdba6", spawning console
+[2022.08.22-18.17.40:846][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.22-18.17.40:846][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.22-18.17.40:933][  0]LogInit: Transaction tracking system initialized
+[2022.08.22-18.17.41:544][  0]BlueprintLog: New page: Editor Load
+[2022.08.22-18.17.43:154][  0]LocalizationService: Localization service is disabled
+[2022.08.22-18.17.43:562][  0]TimingProfiler: Initialize
+[2022.08.22-18.17.43:563][  0]TimingProfiler: OnSessionChanged
+[2022.08.22-18.17.43:563][  0]LoadingProfiler: Initialize
+[2022.08.22-18.17.43:563][  0]LoadingProfiler: OnSessionChanged
+[2022.08.22-18.17.43:567][  0]NetworkingProfiler: Initialize
+[2022.08.22-18.17.43:578][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.22-18.17.43:579][  0]MemoryProfiler: Initialize
+[2022.08.22-18.17.43:579][  0]MemoryProfiler: OnSessionChanged
+[2022.08.22-18.17.52:517][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/' took 0.02s
+[2022.08.22-18.17.52:517][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.22-18.17.53:648][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.22-18.17.53:919][  0]LogUnrealEdMisc: Loading editor; pre map load, took 130.682
+[2022.08.22-18.17.53:967][  0]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.17.53:974][  0]LightingResults: New page: Lighting Build
+[2022.08.22-18.17.54:117][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.17.54:247][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.17.54:274][  0]MapCheck: New page: Map Check
+[2022.08.22-18.17.54:274][  0]LightingResults: New page: Lighting Build
+[2022.08.22-18.17.54:853][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.17.55:247][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.08.22-18.18.00:997][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.08.22-18.18.01:009][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.18.01:009][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.22-18.18.01:014][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.18.01:014][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.18.01:527][  0]LogWorldPartition: Display: WorldPartition initialize took 512 ms
+[2022.08.22-18.18.02:124][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.18.02:500][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.22-18.18.02:539][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.18.02:553][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 13.555ms to complete.
+[2022.08.22-18.18.02:560][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 8.603
+[2022.08.22-18.18.06:362][  0]LogUnrealEdMisc: Total Editor Startup Time, took 143.099
+[2022.08.22-18.18.06:362][  0]LogShaderCompilers: Display: ================================================
+[2022.08.22-18.18.06:369][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.22-18.18.06:370][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.22-18.18.06:370][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.22-18.18.06:370][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.22-18.18.06:370][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.22-18.18.06:370][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.22-18.18.06:370][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.22-18.18.06:370][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.22-18.18.06:370][  0]LogShaderCompilers: Display: ================================================
+[2022.08.22-18.18.09:425][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-18.18.09:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-18.18.09:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-18.18.09:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-18.18.11:613][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:613][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:682][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:682][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:715][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:715][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:761][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:761][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:786][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:786][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:793][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:794][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:816][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:816][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:862][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:862][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:878][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:878][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.11:886][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicGames/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.22-18.18.11:886][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.22-18.18.18:530][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.22-18.18.21:648][  0]LogDerivedDataCache: C:/Users/Ryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.304 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.22-18.18.21:648][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.08.22-18.18.26:831][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.22-18.18.27:350][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.22-18.18.27:444][  0]LogSlate: Took 0.042565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.22-18.18.27:543][  0]LogSlate: Took 0.023462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.22-18.18.27:626][  0]LogSlate: Took 0.045467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.22-18.18.27:878][  0]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2022.08.22-18.18.29:407][  0]LogSlate: Took 0.213909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.22-18.18.31:546][  0]LogStall: Startup...
+[2022.08.22-18.18.31:548][  0]LogStall: Startup complete.
+[2022.08.22-18.18.31:649][  0]LogLoad: (Engine Initialization) Total time: 168.42 seconds
+[2022.08.22-18.18.31:649][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.22-18.18.31:903][  0]LogAssetRegistry: Asset discovery search completed in 118.4902 seconds
+[2022.08.22-18.18.31:925][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.08.22-18.18.31:998][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.22-18.18.33:858][  2]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/Ryan/Documents/GitHub/teamgameproject1'
+[2022.08.22-18.19.08:820][626]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FDE6AE9EFBCD4A7A5E9C7A02E2CFABB30B8FAE2B), compiling. 
+[2022.08.22-18.19.19:800][496]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.08.22-18.19.19:850][496]LogContentBrowser: Creating deferred item: NewWorld
+[2022.08.22-18.19.19:869][497]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.08.22-18.19.27:906][447]LogContentBrowser: Attempting asset rename: NewWorld -> DevLev
+[2022.08.22-18.19.28:034][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.19.28:116][447]LogContentBrowser: End creating deferred item NewWorld
+[2022.08.22-18.19.30:227][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.08.22-18.19.33:369][660]LogSlate: Window 'Save Content' being destroyed
+[2022.08.22-18.19.33:414][660]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/DevLev.DevLev
+[2022.08.22-18.19.33:414][660]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/DevLev.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.19.33:415][660]LightingResults: New page: Lighting Build
+[2022.08.22-18.19.33:415][660]LoadErrors: New page: Loading map: DevLev.umap
+[2022.08.22-18.19.33:511][660]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.19.33:511][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.19.33:548][660]MapCheck: New page: Map Check
+[2022.08.22-18.19.33:548][660]LightingResults: New page: Lighting Build
+[2022.08.22-18.19.33:565][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.19.33:597][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.08.22-18.19.33:598][660]LogAudio: Display: Audio Device (ID: 1) registered with world 'DevLev'.
+[2022.08.22-18.19.33:598][660]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.22-18.19.33:649][660]LogEditCondition: Error: EditCondition attempted to use an invalid operand "WorldPartition".
+[2022.08.22-18.19.33:671][660]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.19.33:672][660]LogAIModule: Creating AISystem for world DevLev
+[2022.08.22-18.19.33:680][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.22-18.19.33:689][660]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.19.33:689][660]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2022.08.22-18.19.33:689][660]LogFileHelpers: Loading map 'DevLev' took 0.275
+[2022.08.22-18.20.02:890][771]LogEditorViewport: Clicking Background
+[2022.08.22-18.20.05:441][ 62]LogEditorViewport: Clicking Background
+[2022.08.22-18.20.06:006][129]LogEditorViewport: Clicking Background
+[2022.08.22-18.20.08:612][379]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.08:612][379]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.09:251][447]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/Maps/DevLev.DevLev
+[2022.08.22-18.20.09:251][447]LogObjectTools: Currently 3 active worlds: /Game/ThirdPerson/Maps/DevLev.DevLev, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.08.22-18.20.12:744][447]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.08.22-18.20.12:751][447]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.22-18.20.13:565][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.22-18.20.14:976][525]LogSlate: Window 'Save Content' being destroyed
+[2022.08.22-18.20.15:105][525]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.08.22-18.20.16:673][525]LogSlate: Window 'Message' being destroyed
+[2022.08.22-18.20.16:678][525]Message dialog closed, result: Yes, title: Message, text: The unsaved level DevLev will be lost.  Continue?
+[2022.08.22-18.20.16:678][525]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.20.16:679][525]LightingResults: New page: Lighting Build
+[2022.08.22-18.20.16:679][525]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.08.22-18.20.16:739][525]LogWorld: UWorld::CleanupWorld for DevLev, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.20.16:739][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.20.16:739][525]MapCheck: New page: Map Check
+[2022.08.22-18.20.16:739][525]LightingResults: New page: Lighting Build
+[2022.08.22-18.20.16:744][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.20.16:745][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.22-18.20.16:765][525]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.20.16:765][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.20.16:774][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.08.22-18.20.16:783][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.22-18.20.16:789][525]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.08.22-18.20.16:789][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.20.16:789][525]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.22-18.20.16:789][525]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.20.16:789][525]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.20.16:810][525]LogWorldPartition: Display: WorldPartition initialize took 21 ms
+[2022.08.22-18.20.16:980][525]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.20.16:993][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.22-18.20.16:998][525]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.20.16:998][525]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2022.08.22-18.20.16:998][525]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.894
+[2022.08.22-18.20.18:391][627]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.18:391][627]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.19:430][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.19:430][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.19:914][793]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.19:914][793]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.20:434][843]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.20:434][843]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.20:815][880]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.20:815][880]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.22:954][101]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.22:954][101]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.23:434][145]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.23:434][145]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.24:188][219]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.24:188][219]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.25:503][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.25:503][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.29:245][752]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.29:245][752]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.30:308][873]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.30:308][873]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.36:270][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.08.22-18.20.36:271][535]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.08.22-18.20.36:271][535]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.20.36:271][535]LightingResults: New page: Lighting Build
+[2022.08.22-18.20.36:271][535]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.08.22-18.20.36:299][535]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.20.36:299][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.20.36:299][535]MapCheck: New page: Map Check
+[2022.08.22-18.20.36:299][535]LightingResults: New page: Lighting Build
+[2022.08.22-18.20.36:306][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.20.36:308][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.22-18.20.36:313][535]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.08.22-18.20.36:313][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.20.36:314][535]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.22-18.20.36:314][535]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.20.36:314][535]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.20.36:337][535]LogWorldPartition: Display: WorldPartition initialize took 22 ms
+[2022.08.22-18.20.36:352][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.20.36:361][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.08.22-18.20.36:370][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.20.36:370][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2022.08.22-18.20.36:370][535]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.099
+[2022.08.22-18.20.37:918][692]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.37:918][692]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.40:271][971]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.40:271][971]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.20.43:117][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.22-18.20.43:396][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/3/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/D/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/5/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/1/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/7/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/D/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/C/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/5/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/1/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/4/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/0/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/8/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/3/': No such file or directory
+[2022.08.22-18.20.45:901][249]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/8/': No such file or directory
+[2022.08.22-18.20.45:977][249]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008508 seconds
+[2022.08.22-18.20.46:014][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/RO/EFK6EVGJT2LJIK7RIRAG01
+[2022.08.22-18.20.46:014][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/EFK6EVGJT2LJIK7RIRAG01DB67DCBE432A93D84F81F096565085C3.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/RO/EFK6EVGJT2LJIK7RIRAG01.uasset'
+[2022.08.22-18.20.46:037][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/3/CX/WUBE6CGW4FQ6YACGFLQJQI
+[2022.08.22-18.20.46:037][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/WUBE6CGW4FQ6YACGFLQJQI3BCB0C0F4AED30ED5E6FA588F16CDAB3.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/3/CX/WUBE6CGW4FQ6YACGFLQJQI.uasset'
+[2022.08.22-18.20.46:040][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/D/66/ZQJXLX5XJVF55N2N6LXIPK
+[2022.08.22-18.20.46:041][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/ZQJXLX5XJVF55N2N6LXIPKC5893AFC4414230DC97EEA84F8A3C87C.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/D/66/ZQJXLX5XJVF55N2N6LXIPK.uasset'
+[2022.08.22-18.20.46:044][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/CI/LYDNYXWR4IF1P4ME5Q8ETJ
+[2022.08.22-18.20.46:044][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/LYDNYXWR4IF1P4ME5Q8ETJ0CA45CA64DE7F3E2B83515A5ED825AE8.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/CI/LYDNYXWR4IF1P4ME5Q8ETJ.uasset'
+[2022.08.22-18.20.46:048][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/5/0D/M4N4LA63D872OQEBW7CSA4
+[2022.08.22-18.20.46:048][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/M4N4LA63D872OQEBW7CSA4AA235C2341862CECF643E5BB446A483D.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/5/0D/M4N4LA63D872OQEBW7CSA4.uasset'
+[2022.08.22-18.20.46:050][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/CJ/BYKS5FXKT9QIS8WESUV3NU
+[2022.08.22-18.20.46:051][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/BYKS5FXKT9QIS8WESUV3NUC7EFB155444BD45CB4DCCB9D68D34D63.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/CJ/BYKS5FXKT9QIS8WESUV3NU.uasset'
+[2022.08.22-18.20.46:053][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/DM/ZHGFKI82Q5P7ZLP16IC2TF
+[2022.08.22-18.20.46:053][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/ZHGFKI82Q5P7ZLP16IC2TFC4E56A32415990BBE7602DBC68CAC6DA.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/DM/ZHGFKI82Q5P7ZLP16IC2TF.uasset'
+[2022.08.22-18.20.46:056][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/HE/9MTO06CP03V22F0U9EWT23
+[2022.08.22-18.20.46:056][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/9MTO06CP03V22F0U9EWT23D67E78E34E6B677FDD7B0A8B67CB74DF.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/HE/9MTO06CP03V22F0U9EWT23.uasset'
+[2022.08.22-18.20.46:058][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/FZ/80RZ3AP14U40UVBNQ5CINV
+[2022.08.22-18.20.46:058][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/80RZ3AP14U40UVBNQ5CINV58F2B70047C25171BFDCF1B32C72AC9A.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/FZ/80RZ3AP14U40UVBNQ5CINV.uasset'
+[2022.08.22-18.20.46:061][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/UI/XAMCWKUVSM05HURDTA3MNN
+[2022.08.22-18.20.46:061][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/XAMCWKUVSM05HURDTA3MNND7EB53DA40F09ACC38D3B6B2FDDE3A95.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/UI/XAMCWKUVSM05HURDTA3MNN.uasset'
+[2022.08.22-18.20.46:064][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/G5/SUSU1RF90GKOBE2W5NZUON
+[2022.08.22-18.20.46:064][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/SUSU1RF90GKOBE2W5NZUON63B8CB3C4CCDDD51D38488B553B59CE8.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/G5/SUSU1RF90GKOBE2W5NZUON.uasset'
+[2022.08.22-18.20.46:066][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/ET/4BVTUCQL424GC9UEYBTEUL
+[2022.08.22-18.20.46:067][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/4BVTUCQL424GC9UEYBTEUL4B94AFF649DF0583BEB99AB01290EC0A.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/ET/4BVTUCQL424GC9UEYBTEUL.uasset'
+[2022.08.22-18.20.46:069][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/3C/M3C2L880I2FNWQL89OPKYD
+[2022.08.22-18.20.46:069][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/M3C2L880I2FNWQL89OPKYD3999625C4900D73B25C4A2AF542DFC0A.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/3C/M3C2L880I2FNWQL89OPKYD.uasset'
+[2022.08.22-18.20.46:072][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/1/EX/VAM3JHSGBHVNIA0WTSZ24R
+[2022.08.22-18.20.46:072][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/VAM3JHSGBHVNIA0WTSZ24REBA62DCB40B0888257A92E8FC37F7C4C.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/1/EX/VAM3JHSGBHVNIA0WTSZ24R.uasset'
+[2022.08.22-18.20.46:075][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/MH/8BJ96LJQ7SO10RKSVRV2U8
+[2022.08.22-18.20.46:075][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/8BJ96LJQ7SO10RKSVRV2U852EC321B4E992387FA2E13B09D9EBBFC.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/MH/8BJ96LJQ7SO10RKSVRV2U8.uasset'
+[2022.08.22-18.20.46:078][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/XS/Y8FKMLDOXMFCJ22BPYO3RA
+[2022.08.22-18.20.46:078][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/Y8FKMLDOXMFCJ22BPYO3RAD91AE75C4B91F90E84F85DA0F8DEB924.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/XS/Y8FKMLDOXMFCJ22BPYO3RA.uasset'
+[2022.08.22-18.20.46:082][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/BJ/W4Q3B5Y1NDSBVND4J2OUGM
+[2022.08.22-18.20.46:083][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/W4Q3B5Y1NDSBVND4J2OUGM4C47B6714A4629682EBBDEB9E0D66662.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/BJ/W4Q3B5Y1NDSBVND4J2OUGM.uasset'
+[2022.08.22-18.20.46:086][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/LU/65VNGYEO7H8VE45RFKLCPA
+[2022.08.22-18.20.46:086][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/65VNGYEO7H8VE45RFKLCPA15895D884BB3999502B3BA95ECAB0C5A.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/LU/65VNGYEO7H8VE45RFKLCPA.uasset'
+[2022.08.22-18.20.46:089][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/92/Z1B4JIQDWA9UG7WYHEJIO7
+[2022.08.22-18.20.46:089][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/Z1B4JIQDWA9UG7WYHEJIO7EB86CC1D4CE9DB4B782CFEB48E70CEBD.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/92/Z1B4JIQDWA9UG7WYHEJIO7.uasset'
+[2022.08.22-18.20.46:092][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/O3/Z5RVFGOB70DOVC4BNQ056S
+[2022.08.22-18.20.46:092][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/Z5RVFGOB70DOVC4BNQ056S30475F084FA9E9727C8C6B8883103DF7.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/O3/Z5RVFGOB70DOVC4BNQ056S.uasset'
+[2022.08.22-18.20.46:094][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/7/5U/XT5F6YF1AZ945GAJW9PL8T
+[2022.08.22-18.20.46:095][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/XT5F6YF1AZ945GAJW9PL8T11A8A6D946D79AEBCE29B9B871745FA3.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/7/5U/XT5F6YF1AZ945GAJW9PL8T.uasset'
+[2022.08.22-18.20.46:098][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/H8/ENI7PF250FGOEG30DOQ3ID
+[2022.08.22-18.20.46:098][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/ENI7PF250FGOEG30DOQ3ID126287004CB69E5D266998951C9F20D3.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/H8/ENI7PF250FGOEG30DOQ3ID.uasset'
+[2022.08.22-18.20.46:100][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/88/59AHO6OQG837KLWS1DHBB1
+[2022.08.22-18.20.46:100][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/59AHO6OQG837KLWS1DHBB15381C95944134DBFE4E720BA3CF60A97.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/88/59AHO6OQG837KLWS1DHBB1.uasset'
+[2022.08.22-18.20.46:103][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/P6/5VDTLYBQ6FRVS6E1T62XMZ
+[2022.08.22-18.20.46:103][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/5VDTLYBQ6FRVS6E1T62XMZE72F595B4B3A021DBB42D3941E8E2799.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/6/P6/5VDTLYBQ6FRVS6E1T62XMZ.uasset'
+[2022.08.22-18.20.46:106][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/D/0H/TXTVQ21NLW2419J0HZF7TW
+[2022.08.22-18.20.46:106][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/TXTVQ21NLW2419J0HZF7TWB99CF0FB41C0798620AD1FA9866E9A81.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/D/0H/TXTVQ21NLW2419J0HZF7TW.uasset'
+[2022.08.22-18.20.46:108][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/2S/DJRIKQW5BD6NYF14BCSFCU
+[2022.08.22-18.20.46:109][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/DJRIKQW5BD6NYF14BCSFCU42575AFD4415405DD83382B8E9A6252C.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/2S/DJRIKQW5BD6NYF14BCSFCU.uasset'
+[2022.08.22-18.20.46:111][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/OB/04GFYVQQZU55ODD6BAT8US
+[2022.08.22-18.20.46:111][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/04GFYVQQZU55ODD6BAT8US0DEC25124ADA0224B1F9FFBA3784DDD0.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/OB/04GFYVQQZU55ODD6BAT8US.uasset'
+[2022.08.22-18.20.46:114][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/P1/X7YU1K3LQ4MBE66UPN7VB1
+[2022.08.22-18.20.46:115][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/X7YU1K3LQ4MBE66UPN7VB1317D2633419418883A881CB2FE80FDDE.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/P1/X7YU1K3LQ4MBE66UPN7VB1.uasset'
+[2022.08.22-18.20.46:118][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/O4/2ZGDGF2Y6K8WASEMMOWZX0
+[2022.08.22-18.20.46:118][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/2ZGDGF2Y6K8WASEMMOWZX069CDF4DF4798B414073AF288C5ECEDFC.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/O4/2ZGDGF2Y6K8WASEMMOWZX0.uasset'
+[2022.08.22-18.20.46:120][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/C/PX/MO3OIEWUKQJ0MW19W4Q6FH
+[2022.08.22-18.20.46:120][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/MO3OIEWUKQJ0MW19W4Q6FH83B9A60A4E99E589025A6DB4B223A40B.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/C/PX/MO3OIEWUKQJ0MW19W4Q6FH.uasset'
+[2022.08.22-18.20.46:123][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/WE/XS74ZVIQY2KKU0GSNK46V7
+[2022.08.22-18.20.46:123][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/XS74ZVIQY2KKU0GSNK46V75ACBF6F3482A57176421CEB7A7345075.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/0/WE/XS74ZVIQY2KKU0GSNK46V7.uasset'
+[2022.08.22-18.20.46:125][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/12/PWH1WZKFT8JRYV1CHLOFK4
+[2022.08.22-18.20.46:125][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/PWH1WZKFT8JRYV1CHLOFK431DBD66F481E7C1706E5C08B7DE79901.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/12/PWH1WZKFT8JRYV1CHLOFK4.uasset'
+[2022.08.22-18.20.46:128][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/OU/KURLN16D6358YXO9GOO0CX
+[2022.08.22-18.20.46:128][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/KURLN16D6358YXO9GOO0CX371E8BC044081A9BBB0B96B8CBE5FA85.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/OU/KURLN16D6358YXO9GOO0CX.uasset'
+[2022.08.22-18.20.46:131][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/4G/OHIL6GTS6P0OIQF2B727OL
+[2022.08.22-18.20.46:131][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/OHIL6GTS6P0OIQF2B727OLCEE0B5F14DF9F4319A45C88B8A8EFF58.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/4G/OHIL6GTS6P0OIQF2B727OL.uasset'
+[2022.08.22-18.20.46:133][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/KV/9165CELH6LHZKL2DPAB27E
+[2022.08.22-18.20.46:133][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/9165CELH6LHZKL2DPAB27EAD2BD4964B8702C2D0DC4389F809779B.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/KV/9165CELH6LHZKL2DPAB27E.uasset'
+[2022.08.22-18.20.46:136][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/1B/95O99U5HRWJ0088702IT4Q
+[2022.08.22-18.20.46:136][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/95O99U5HRWJ0088702IT4Q3419519D4582AB165C6874946D739A67.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/1B/95O99U5HRWJ0088702IT4Q.uasset'
+[2022.08.22-18.20.46:139][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/EF/OM644WDN70M7QPFPYNO4H0
+[2022.08.22-18.20.46:139][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/OM644WDN70M7QPFPYNO4H0DF1C68E54D7E6B30F59F6DA127460E22.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/4/EF/OM644WDN70M7QPFPYNO4H0.uasset'
+[2022.08.22-18.20.46:142][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/H2/GUEBZRUQAQ8Y4SVY5L7LW8
+[2022.08.22-18.20.46:142][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/GUEBZRUQAQ8Y4SVY5L7LW817938FB54007E1BFEF543D8699F43C79.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/H2/GUEBZRUQAQ8Y4SVY5L7LW8.uasset'
+[2022.08.22-18.20.46:144][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/4Q/CL8YX70PAN1QW4DHCOUF6G
+[2022.08.22-18.20.46:145][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/CL8YX70PAN1QW4DHCOUF6GFBEC958D4DFA49DC52767A8301629417.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/4Q/CL8YX70PAN1QW4DHCOUF6G.uasset'
+[2022.08.22-18.20.46:151][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/HK/6ACH1VKRP438QLQ4JK37ZN
+[2022.08.22-18.20.46:151][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/6ACH1VKRP438QLQ4JK37ZNB5B141634EEACD12B2B69CA53EE4528A.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/HK/6ACH1VKRP438QLQ4JK37ZN.uasset'
+[2022.08.22-18.20.46:156][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/CB/2WTXCZ8WFC48XZANUCWKVB
+[2022.08.22-18.20.46:156][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/2WTXCZ8WFC48XZANUCWKVB87069FBD402F614614EEA7A8B8198430.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/CB/2WTXCZ8WFC48XZANUCWKVB.uasset'
+[2022.08.22-18.20.46:159][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/X3/45YV41IYBXWQ8Z5VOMQKBF
+[2022.08.22-18.20.46:159][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/45YV41IYBXWQ8Z5VOMQKBF965549C74B8D1B528F8754A06E0286E2.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/2/X3/45YV41IYBXWQ8Z5VOMQKBF.uasset'
+[2022.08.22-18.20.46:161][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/5/9C/MLQ6JYCWV70ED3FZ937EXG
+[2022.08.22-18.20.46:162][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/MLQ6JYCWV70ED3FZ937EXGAA6CF80E404CC006AF52D3AE9843A72C.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/5/9C/MLQ6JYCWV70ED3FZ937EXG.uasset'
+[2022.08.22-18.20.46:165][249]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/1/S2/WSNTU5JSI9LDMC5U11L1E0
+[2022.08.22-18.20.46:165][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/WSNTU5JSI9LDMC5U11L1E01899C5E040FD4342888E659D9702B117.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/1/S2/WSNTU5JSI9LDMC5U11L1E0.uasset'
+[2022.08.22-18.20.46:168][249]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/4/OT/1TWZCCRP6FGNJJ87V0K5IE
+[2022.08.22-18.20.46:168][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/1TWZCCRP6FGNJJ87V0K5IE36AA010A450C6FBF0E1F82B79938F561.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/4/OT/1TWZCCRP6FGNJJ87V0K5IE.uasset'
+[2022.08.22-18.20.46:170][249]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/0/7F/W2D1CQBX3ZBWPIZ0CNUBXP
+[2022.08.22-18.20.46:170][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/W2D1CQBX3ZBWPIZ0CNUBXP01BAF6EE49027A61F0349C8AF22FF512.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/0/7F/W2D1CQBX3ZBWPIZ0CNUBXP.uasset'
+[2022.08.22-18.20.46:173][249]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/8/D2/2EAEJU14USW4743OCODYEI
+[2022.08.22-18.20.46:173][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/2EAEJU14USW4743OCODYEI192BA6624C01330E1ABCD28D9A78670B.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/8/D2/2EAEJU14USW4743OCODYEI.uasset'
+[2022.08.22-18.20.46:176][249]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/3/JQ/1UXAZ3QXARZU50ELNQFY96
+[2022.08.22-18.20.46:176][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/1UXAZ3QXARZU50ELNQFY96754B6D0547C527C79CEC4A939CCCCF56.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/3/JQ/1UXAZ3QXARZU50ELNQFY96.uasset'
+[2022.08.22-18.20.46:178][249]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/8/57/CXQNNBOYSBULJK8M4M1DQG
+[2022.08.22-18.20.46:178][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/CXQNNBOYSBULJK8M4M1DQGF09524AD466F4743F62027A2F9EA913C.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap_2/8/57/CXQNNBOYSBULJK8M4M1DQG.uasset'
+[2022.08.22-18.20.52:284][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.08.22-18.20.52:334][249]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap_2
+[2022.08.22-18.20.52:334][249]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/ThirdPersonMap_28B6748E14666F8B434BA38AD65B267DC.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap_2.umap'
+[2022.08.22-18.20.52:566][249]LogD3D12RHI: Warning: Force flushing GPU because pending upload allocations reached its limit
+[2022.08.22-18.20.52:696][249]LogFileHelpers: Saving map 'ThirdPersonMap_2' took 9.294
+[2022.08.22-18.20.53:218][249]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.ActorFolder_UID_D075E5BA-49330D3E-C2503D81-A7CF88D1
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.ActorFolder_UID_7B7009C3-45D3D6DD-94D3429E-1D79C034
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.ActorFolder_UID_7D23E5AE-4C2A421F-86AF6986-D87E6D05
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.ActorFolder_UID_C73F09FC-4215536B-1DCE2A9E-0A830C70
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.ActorFolder_UID_EBA23F82-48252949-750E4391-1A3A1CDD
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.ActorFolder_UID_963EC3EB-4002CCE9-759E2EBA-541A873A
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.PlayerStart_UAID_4C77CB1FB1D3FB2C01_1732522799
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.WorldPartitionMiniMap_0
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_2
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.PlayerStart_0
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_7
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_6
+[2022.08.22-18.20.53:223][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_20
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_5
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_21
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_13
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_32
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_16
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_0
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_23
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_8
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_12
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.PlayerStart_UAID_4C77CB1FB1D3FB2C01_1747507801
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating SkyLight /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.SkyLight_1
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_9
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_1
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_25
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_35
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating ExponentialHeightFog /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.ExponentialHeightFog_0
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_3
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_33
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_22
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.DirectionalLight_0
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_19
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_4
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_11
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_14
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating SkyAtmosphere /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.SkyAtmosphere_0
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_15
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_34
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_24
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating VolumetricCloud /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.VolumetricCloud_0
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.PlayerStart_UAID_4C77CB1FB1D3FB2C01_1743095800
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.TextRenderActor_1
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_10
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.PostProcessVolume_0
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_18
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.WorldDataLayers
+[2022.08.22-18.20.53:224][249]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2
+[2022.08.22-18.20.56:707][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.08.22-18.20.56:709][450]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2
+[2022.08.22-18.20.56:709][450]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.20.56:709][450]LightingResults: New page: Lighting Build
+[2022.08.22-18.20.56:709][450]LoadErrors: New page: Loading map: ThirdPersonMap_2.umap
+[2022.08.22-18.20.56:738][450]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.20.56:738][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.20.56:742][450]MapCheck: New page: Map Check
+[2022.08.22-18.20.56:742][450]LightingResults: New page: Lighting Build
+[2022.08.22-18.20.56:750][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.20.56:752][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.08.22-18.20.56:754][450]LogWorld: UWorld::CleanupWorld for ThirdPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.20.56:754][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.20.56:764][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.22-18.20.56:772][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.08.22-18.20.56:778][450]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap_2'.
+[2022.08.22-18.20.56:778][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.20.56:778][450]LogAIModule: Creating AISystem for world ThirdPersonMap_2
+[2022.08.22-18.20.56:779][450]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.20.56:779][450]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.20.56:802][450]LogWorldPartition: Display: WorldPartition initialize took 23 ms
+[2022.08.22-18.20.56:818][450]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.20.56:827][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.08.22-18.20.56:836][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.20.56:837][450]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2022.08.22-18.20.56:837][450]LogFileHelpers: Loading map 'ThirdPersonMap_2' took 0.127
+[2022.08.22-18.20.58:157][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.22-18.20.58:158][576]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2
+[2022.08.22-18.20.58:158][576]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.20.58:158][576]LightingResults: New page: Lighting Build
+[2022.08.22-18.20.58:158][576]LoadErrors: New page: Loading map: ThirdPersonMap_2.umap
+[2022.08.22-18.20.58:189][576]LogWorld: UWorld::CleanupWorld for ThirdPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.20.58:189][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.20.58:208][576]MapCheck: New page: Map Check
+[2022.08.22-18.20.58:208][576]LightingResults: New page: Lighting Build
+[2022.08.22-18.20.58:215][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.20.58:218][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.22-18.20.58:223][576]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap_2'.
+[2022.08.22-18.20.58:223][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.20.58:224][576]LogAIModule: Creating AISystem for world ThirdPersonMap_2
+[2022.08.22-18.20.58:224][576]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.20.58:224][576]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.20.58:245][576]LogWorldPartition: Display: WorldPartition initialize took 21 ms
+[2022.08.22-18.20.58:261][576]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.20.58:272][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.22-18.20.58:280][576]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.20.58:281][576]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.239ms to complete.
+[2022.08.22-18.20.58:281][576]LogFileHelpers: Loading map 'ThirdPersonMap_2' took 0.123
+[2022.08.22-18.21.04:551][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.08.22-18.21.06:168][166]LogSlate: Window 'Save Content' being destroyed
+[2022.08.22-18.21.06:392][166]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/CB/2WTXCZ8WFC48XZANUCWKVB
+[2022.08.22-18.21.06:392][166]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/2WTXCZ8WFC48XZANUCWKVBFCC513D443E6FAE4816E89A5807EF188.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/A/CB/2WTXCZ8WFC48XZANUCWKVB.uasset'
+[2022.08.22-18.21.06:455][166]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.08.22-18.21.06:455][166]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.21.06:455][166]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.06:455][166]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.08.22-18.21.06:488][166]LogWorld: UWorld::CleanupWorld for ThirdPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.06:488][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.06:492][166]MapCheck: New page: Map Check
+[2022.08.22-18.21.06:492][166]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.06:500][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.21.06:502][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.08.22-18.21.06:503][166]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.06:503][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.06:512][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.22-18.21.06:520][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.08.22-18.21.06:525][166]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.08.22-18.21.06:525][166]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.21.06:526][166]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.22-18.21.06:526][166]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.21.06:526][166]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.21.06:548][166]LogWorldPartition: Display: WorldPartition initialize took 22 ms
+[2022.08.22-18.21.06:563][166]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.21.06:574][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.08.22-18.21.06:581][166]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.21.06:582][166]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2022.08.22-18.21.06:582][166]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.127
+[2022.08.22-18.21.06:599][166]AssetCheck: New page: Asset Save: StaticMeshActor_2
+[2022.08.22-18.21.06:599][166]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_2
+[2022.08.22-18.21.06:605][166]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_2'
+[2022.08.22-18.21.08:820][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.08.22-18.21.08:824][378]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2
+[2022.08.22-18.21.08:824][378]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.21.08:824][378]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.08:824][378]LoadErrors: New page: Loading map: ThirdPersonMap_2.umap
+[2022.08.22-18.21.08:849][378]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.08:849][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.08:852][378]MapCheck: New page: Map Check
+[2022.08.22-18.21.08:852][378]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.08:860][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.21.08:863][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.22-18.21.08:865][378]LogWorld: UWorld::CleanupWorld for ThirdPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.08:865][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.08:872][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.22-18.21.08:881][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.08.22-18.21.08:886][378]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap_2'.
+[2022.08.22-18.21.08:887][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.21.08:887][378]LogAIModule: Creating AISystem for world ThirdPersonMap_2
+[2022.08.22-18.21.08:887][378]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.21.08:887][378]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.21.08:910][378]LogWorldPartition: Display: WorldPartition initialize took 23 ms
+[2022.08.22-18.21.08:924][378]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.21.08:936][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.22-18.21.08:944][378]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.21.08:944][378]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.415ms to complete.
+[2022.08.22-18.21.08:944][378]LogFileHelpers: Loading map 'ThirdPersonMap_2' took 0.121
+[2022.08.22-18.21.17:849][340]Cmd: SELECT NONE
+[2022.08.22-18.21.19:638][498]Cmd: DELETE
+[2022.08.22-18.21.19:638][498]Cmd: ACTOR DELETE
+[2022.08.22-18.21.19:745][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.21.19:765][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.08.22-18.21.19:766][498]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2022.08.22-18.21.20:268][538]Cmd: DELETE
+[2022.08.22-18.21.20:269][538]Cmd: ACTOR DELETE
+[2022.08.22-18.21.20:270][538]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.08.22-18.21.20:282][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.08.22-18.21.20:283][538]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.08.22-18.21.21:558][677]Cmd: DELETE
+[2022.08.22-18.21.21:558][677]Cmd: ACTOR DELETE
+[2022.08.22-18.21.21:560][677]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.21.21:570][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.08.22-18.21.21:571][677]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.08.22-18.21.22:219][745]Cmd: DELETE
+[2022.08.22-18.21.22:219][745]Cmd: ACTOR DELETE
+[2022.08.22-18.21.22:220][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.21.22:229][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.08.22-18.21.22:230][745]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.08.22-18.21.23:713][908]Cmd: DELETE
+[2022.08.22-18.21.23:713][908]Cmd: ACTOR DELETE
+[2022.08.22-18.21.23:716][908]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.21.23:728][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.22-18.21.23:729][908]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.08.22-18.21.31:422][770]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.21.31:422][770]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-18.21.33:055][951]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2
+[2022.08.22-18.21.33:055][951]LogObjectTools: Currently 3 active worlds: /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.08.22-18.21.34:432][951]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.08.22-18.21.34:464][951]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.22-18.21.35:026][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.08.22-18.21.36:349][985]LogSlate: Window 'Save Content' being destroyed
+[2022.08.22-18.21.36:402][985]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.08.22-18.21.36:403][985]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.21.36:403][985]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.36:403][985]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.08.22-18.21.36:438][985]LogWorld: UWorld::CleanupWorld for ThirdPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.36:438][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.36:442][985]MapCheck: New page: Map Check
+[2022.08.22-18.21.36:442][985]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.36:451][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.21.36:453][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.22-18.21.36:455][985]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.36:455][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.36:464][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.22-18.21.36:472][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.22-18.21.36:477][985]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.08.22-18.21.36:477][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.21.36:478][985]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.22-18.21.36:478][985]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.21.36:478][985]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.21.36:503][985]LogWorldPartition: Display: WorldPartition initialize took 24 ms
+[2022.08.22-18.21.36:518][985]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.21.36:530][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.22-18.21.36:537][985]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.21.36:538][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2022.08.22-18.21.36:538][985]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.135
+[2022.08.22-18.21.37:382][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.22-18.21.37:418][ 60]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2
+[2022.08.22-18.21.37:419][ 60]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.21.37:419][ 60]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.37:419][ 60]LoadErrors: New page: Loading map: ThirdPersonMap_2.umap
+[2022.08.22-18.21.37:421][ 60]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.37:421][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.37:424][ 60]MapCheck: New page: Map Check
+[2022.08.22-18.21.37:424][ 60]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.37:434][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.21.37:436][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.08.22-18.21.37:437][ 60]LogWorld: UWorld::CleanupWorld for ThirdPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.37:437][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.37:448][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.22-18.21.37:456][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.22-18.21.37:462][ 60]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap_2'.
+[2022.08.22-18.21.37:462][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.21.37:462][ 60]LogAIModule: Creating AISystem for world ThirdPersonMap_2
+[2022.08.22-18.21.37:462][ 60]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.21.37:463][ 60]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.21.37:486][ 60]LogWorldPartition: Display: WorldPartition initialize took 23 ms
+[2022.08.22-18.21.37:500][ 60]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.21.37:512][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.22-18.21.37:520][ 60]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.21.37:520][ 60]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2022.08.22-18.21.37:520][ 60]LogFileHelpers: Loading map 'ThirdPersonMap_2' took 0.101
+[2022.08.22-18.21.38:996][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.08.22-18.21.39:056][206]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.08.22-18.21.39:056][206]Cmd: MAP LOAD FILE="C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.22-18.21.39:056][206]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.39:056][206]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.08.22-18.21.39:079][206]LogWorld: UWorld::CleanupWorld for ThirdPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.39:079][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.39:082][206]MapCheck: New page: Map Check
+[2022.08.22-18.21.39:082][206]LightingResults: New page: Lighting Build
+[2022.08.22-18.21.39:089][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-18.21.39:091][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.22-18.21.39:093][206]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.21.39:094][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.21.39:103][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.08.22-18.21.39:111][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.08.22-18.21.39:116][206]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.08.22-18.21.39:116][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.21.39:116][206]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.22-18.21.39:117][206]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-18.21.39:117][206]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.22-18.21.39:139][206]LogWorldPartition: Display: WorldPartition initialize took 22 ms
+[2022.08.22-18.21.39:153][206]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.22-18.21.39:163][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.22-18.21.39:171][206]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.22-18.21.39:171][206]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2022.08.22-18.21.39:171][206]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.116
+[2022.08.22-18.21.43:075][598]Cmd: DELETE
+[2022.08.22-18.21.43:076][598]Cmd: ACTOR DELETE
+[2022.08.22-18.21.43:078][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.21.43:087][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.08.22-18.21.43:088][598]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.08.22-18.21.43:393][623]Cmd: DELETE
+[2022.08.22-18.21.43:394][623]Cmd: ACTOR DELETE
+[2022.08.22-18.21.43:396][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.21.43:408][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.22-18.21.43:409][623]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.08.22-18.21.44:978][801]Cmd: DELETE
+[2022.08.22-18.21.44:978][801]Cmd: ACTOR DELETE
+[2022.08.22-18.21.44:979][801]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.08.22-18.21.44:987][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.08.22-18.21.44:988][801]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.08.22-18.21.45:478][848]Cmd: DELETE
+[2022.08.22-18.21.45:478][848]Cmd: ACTOR DELETE
+[2022.08.22-18.21.45:480][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.21.45:489][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.08.22-18.21.45:490][848]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.08.22-18.21.46:019][902]Cmd: DELETE
+[2022.08.22-18.21.46:019][902]Cmd: ACTOR DELETE
+[2022.08.22-18.21.46:020][902]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.21.46:029][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.22-18.21.46:030][902]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.08.22-18.22.45:447][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.08.22-18.22.45:522][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.23.01:294][ 42]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.08.22-18.23.01:294][ 42]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [12657ms] waiting for h/w. InstanceID=1
+[2022.08.22-18.23.01:294][ 42]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.028834s
+[2022.08.22-18.23.01:886][ 42]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001750s (1.650465s overbudget)
+[2022.08.22-18.23.02:961][ 42]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9584
+[2022.08.22-18.23.02:961][ 42]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (1).
+[2022.08.22-18.23.03:962][ 42]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (2).
+[2022.08.22-18.23.04:180][ 42]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ea5b97d8-5dfb-4905-a0c3-e141f6f1325d}, Name=C27F390 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=26.12
+[2022.08.22-18.23.04:180][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.22-18.23.04:313][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.22-18.23.07:152][293]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2022.08.22-18.23.19:439][713]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-18.23.19:439][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-18.23.19:546][713]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.08.22-18.23.19:547][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-18.23.20:417][713]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.22-18.27.52:990][178]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.08.22-18.27.52:990][178]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.KillZVolume
+[2022.08.22-18.27.53:057][178]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.KillZVolume_UAID_244BFE5AA8DF2E2F01_1748804887
+[2022.08.22-18.27.53:213][178]LogActorFactory: Actor Factory spawned Class /Script/Engine.KillZVolume as actor: KillZVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.KillZVolume_UAID_244BFE5AA8DF2E2F01_1748804887
+[2022.08.22-18.32.48:237][769]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2022.08.22-18.32.48:285][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.08.22-18.34.22:866][987]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-18.36.02:681][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.08.22-18.36.02:685][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T3/PBEVDG8QF74CI7Z7HD55YM_Auto1
+[2022.08.22-18.36.02:685][897]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/PBEVDG8QF74CI7Z7HD55YM_Auto1118FE96B46ACB245EC9B329D7C36C069.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T3/PBEVDG8QF74CI7Z7HD55YM_Auto1.uasset'
+[2022.08.22-18.36.02:686][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2022.08.22-18.36.02:686][897]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2022.08.22-18.36.02:692][897]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2022.08.22-18.36.02:692][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2022.08.22-18.36.02:749][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1
+[2022.08.22-18.36.02:749][897]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/BP_ThirdPersonGameMode_Auto1EB5A9ACC478BD3A6ECF96992E09654AF.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1.uasset'
+[2022.08.22-18.36.02:750][897]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.08.22-18.37.56:396][814]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2022.08.22-18.37.56:442][814]LogBlueprint: Error: [AssetLog] C:\Users\Ryan\Documents\GitHub\teamgameproject1\Content\ThirdPerson\Blueprints\BP_ThirdPersonGameMode.uasset: [Compiler] This blueprint (self) is not a PlayerState, therefore ' Target ' must have a connection.
+[2022.08.22-18.37.56:482][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.08.22-18.37.57:903][955]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2022.08.22-18.37.57:904][955]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/BP_ThirdPersonGameMode925C0B8B42F37338CD13F3A86024BA45.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2022.08.22-18.37.57:919][955]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2022.08.22-18.37.57:919][955]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.08.22-18.38.08:433][135]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2022.08.22-18.38.08:475][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.08.22-18.38.09:362][217]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2022.08.22-18.38.09:364][217]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/BP_ThirdPersonGameModeAB3ABC26472EAA9000C4FBB2A28300D1.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2022.08.22-18.38.09:377][217]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2022.08.22-18.38.09:377][217]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.08.22-18.39.49:933][653]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2022.08.22-18.39.49:981][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.08.22-18.40.15:830][813]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Ryan\Downloads\Character_Retopo_Complete_05.fbx)
+[2022.08.22-18.40.15:964][813]LogFbx: Loading FBX Scene from C:\Users\Ryan\Downloads\Character_Retopo_Complete_05.fbx
+[2022.08.22-18.40.15:979][813]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.22-18.40.24:920][813]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.08.22-18.40.25:027][813]LogFbx: Display: Triangulating static mesh Arms.002
+[2022.08.22-18.40.25:289][813]LogStaticMesh: Display: Building static mesh Character_Retopo_Complete_05...
+[2022.08.22-18.40.25:539][813]LogStaticMesh: Built static mesh [0.26s] /Game/ThirdPerson/Blueprints/Character_Retopo_Complete_05.Character_Retopo_Complete_05
+[2022.08.22-18.40.25:792][813]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.08.22-18.40.26:081][813]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ThirdPerson/Blueprints/Character_Retopo_Complete_05) ...
+[2022.08.22-18.40.33:582][545]LogSlate: Window 'Message Log' being destroyed
+[2022.08.22-18.40.33:588][545]LogSlate: Window 'Message Log' being destroyed
+[2022.08.22-18.40.38:011][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Blueprints/Character_Retopo_Complete_05.Character_Retopo_Complete_05
+[2022.08.22-18.40.38:012][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Blueprints/Character_Retopo_Complete_05.Character_Retopo_Complete_05
+[2022.08.22-18.40.38:012][918]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Blueprints/Character_Retopo_Complete_05.Character_Retopo_Complete_05 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2022.08.22-18.40.38:885][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Blueprints/Character_Retopo_Complete_05.Character_Retopo_Complete_05
+[2022.08.22-18.40.38:885][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Blueprints/Character_Retopo_Complete_05.Character_Retopo_Complete_05
+[2022.08.22-18.40.38:886][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Blueprints/Character_Retopo_Complete_05.Character_Retopo_Complete_05 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE5AA8DF2F2F01_1440957064
+[2022.08.22-18.40.39:044][ 22]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2022.08.22-18.40.41:004][257]Cmd: DELETE
+[2022.08.22-18.40.41:004][257]Cmd: ACTOR DELETE
+[2022.08.22-18.40.41:009][257]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.22-18.40.41:049][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.08.22-18.40.41:051][257]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.08.22-18.40.45:910][730]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2022.08.22-18.40.46:384][730]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2022.08.22-18.40.46:898][730]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE5AA8DF2F2F01_1440957064 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/WP/7U9RJBWP124579CGRWKACD.PackageMetaData in its package
+[2022.08.22-18.40.46:899][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.08.22-18.40.46:934][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.08.22-18.40.46:967][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.08.22-18.40.47:361][730]SourceControl: Error: Updated 0 paths from the index
+[2022.08.22-18.40.47:722][730]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset'
+[2022.08.22-18.40.47:722][730]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset'
+[2022.08.22-18.40.47:722][730]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
+[2022.08.22-18.40.47:722][730]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset'
+[2022.08.22-18.40.47:722][730]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset'
+[2022.08.22-18.40.47:729][730]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T3/PBEVDG8QF74CI7Z7HD55YM
+[2022.08.22-18.40.47:729][730]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/PBEVDG8QF74CI7Z7HD55YM67BC64414DC269A7985199B14610DC44.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T3/PBEVDG8QF74CI7Z7HD55YM.uasset'
+[2022.08.22-18.40.47:731][730]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/1F/X3XW8U2T4U2BERJESH95TN
+[2022.08.22-18.40.47:731][730]LogSavePackage: Moving 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Saved/X3XW8U2T4U2BERJESH95TN282AE4E543B5FFD3738995900957AE8A.tmp' to 'C:/Users/Ryan/Documents/GitHub/teamgameproject1/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/1F/X3XW8U2T4U2BERJESH95TN.uasset'
+[2022.08.22-18.40.47:966][730]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.22-18.40.47:966][730]LogContentValidation: Display: Validating KillZVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.KillZVolume_UAID_244BFE5AA8DF2E2F01_1748804887
+[2022.08.22-18.40.47:966][730]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_C5AB9558-43FBE8C0-5F82A69C-7F20C6CE
+[2022.08.22-18.40.47:998][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.08.22-18.40.48:660][781]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
